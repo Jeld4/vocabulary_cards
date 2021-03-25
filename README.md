@@ -10,4 +10,6 @@ class Card
   self.status = FAVORITE, SKIP, NEW
 ```
 
+![alt text](https://github.com/Jeld4/vocabulary_cards/blob/master/desing/menu.png)
+
 **Used language:** Python
